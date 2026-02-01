@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26f5ea2d3643d544fbcb7c7f9ceb1414
+timeCreated: 1498876288
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90500
+  packageName: Flappy Copters
+  packageVersion: 1.0
+  assetPath: Assets/_ReadMe/_READ_ME.txt
+  uploadId: 228131
